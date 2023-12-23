@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Data Kedalaman Laut</title>
+</head>
+
+<body>
+    
+    <header>
+        <nav>
+            <div class="logo">ChasmChronicles</div>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <div class="hero">
+            <h1>Home</h1>
+            <p>Explore Seputar Kedalaman Laut.</p>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>Pelajari Lebih Banyak Tentang Kedalaman Laut.</p>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <p>Discover the range of services we offer for ocean data analysis.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Get in touch with us for more information and collaborations.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; Project Asik</p>
+    </footer>
+</body>
+
+</html>
